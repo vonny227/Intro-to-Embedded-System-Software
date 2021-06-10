@@ -38,6 +38,7 @@ void main() {
   /* Other Variable Declarations Go Here */
   /* Statistics and Printing Functions Go Here */
 
+  /*
 }
 
 /* Add other Implementation File Code Here */
@@ -46,6 +47,7 @@ void print_statistics ( unsigned char *darray, unsigned int size )
     /* 
      * Print the stats of the array 
      * mean, median, max and min
+     * TODO: call functions to compute stats and print those stats
      * 
      */
 
@@ -55,6 +57,7 @@ void print_array( unsigned char *darray, unsigned int size )
 {
     /*
      * print the array as is
+     * TODO: call print array passed in
      *
      */
 
@@ -64,6 +67,7 @@ unsigned char find_median( unsigned char *darray, unsigned int size )
 {
     /*
      * return the median of the array
+     * TODO: calculate the median
      *
      */
 
@@ -74,6 +78,7 @@ unsigned char find_mean( unsigned char *darray, unsigned int size )
 {
     /*
      * return the mean of the array
+     * TODO: calculate teh mean
      *
      */
 
@@ -84,6 +89,7 @@ unsigned char find_maximum( unsigned char *darray, unsigned int size )
 {
     /*
      * return the maximum of the array
+     * TODO: calculate the maximum
      * 
      */
 
@@ -94,6 +100,7 @@ unsigned char find_minimum( unsigned char *darray, unsigned int size )
 {
     /*
      * return the minimum of the array
+     * TODO: calculate the minimum
      *
      */
 
@@ -104,6 +111,7 @@ unsigned char *sort_array( unsigned char *darray, unsigned int size )
 {
     /*
      * sort the array
+     * TODO: sort the array
      *
      */
 
