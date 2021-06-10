@@ -41,3 +41,71 @@ void main() {
 }
 
 /* Add other Implementation File Code Here */
+void print_statistics ( unsigned char *darray, unsigned int size ) 
+{
+    /* 
+     * Print the stats of the array 
+     * mean, median, max and min
+     * 
+     */
+
+}
+
+void print_array( unsigned char *darray, unsigned int size )
+{
+    /*
+     * print the array as is
+     *
+     */
+
+}
+
+unsigned char find_median( unsigned char *darray, unsigned int size )
+{
+    /*
+     * return the median of the array
+     *
+     */
+
+}
+
+
+unsigned char find_mean( unsigned char *darray, unsigned int size )
+{
+    /*
+     * return the mean of the array
+     *
+     */
+
+}
+
+
+unsigned char find_maximum( unsigned char *darray, unsigned int size )
+{
+    /*
+     * return the maximum of the array
+     * 
+     */
+
+}
+
+
+unsigned char find_minimum( unsigned char *darray, unsigned int size )
+{
+    /*
+     * return the minimum of the array
+     *
+     */
+
+}
+
+
+unsigned char *sort_array( unsigned char *darray, unsigned int size )
+{
+    /*
+     * sort the array
+     *
+     */
+
+}
+
